@@ -7,7 +7,7 @@
 ## Install python dependencies
 ``pip install -r requirements.txt``
 
-## Install youtube dlp
+## Install yt-dlp
 - Arch/AUR: ``yay -S yt-dlp``
 - Others: https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation
 
